@@ -1,0 +1,150 @@
+\contentsline {section}{Abstract}{iv}{chapter*.1}
+\contentsline {section}{Acknowledgments}{v}{chapter*.2}
+\contentsline {chapter}{LIST OF TABLES}{ix}{chapter*.4}
+\contentsline {chapter}{LIST OF FIGURES}{x}{chapter*.5}
+\contentsline {chapter}{\numberline {1}GENERAL INTRODUCTION}{1}{chapter.1}
+\contentsline {section}{Does attention have a memory? Perspectives on automatic control}{2}{section*.6}
+\contentsline {subsection}{Some historical context}{3}{section*.6}
+\contentsline {subsection}{Treisman's attenuation model of attention (1960; 1964; 1969)}{4}{section*.6}
+\contentsline {subsection}{Norman's theory of memory and attention (1968)}{6}{section*.6}
+\contentsline {subsection}{Controlled, automatic and the ``automatic attention response''}{7}{section*.6}
+\contentsline {subsection}{Attention from an associative learning perspective}{9}{section*.6}
+\contentsline {subsection}{Associative learning from an attention perspective}{10}{section*.6}
+\contentsline {subsection}{A synthesis of automatic control perspectives}{12}{section*.6}
+\contentsline {section}{Empirical evidence for automatic attentional control}{13}{section*.6}
+\contentsline {subsection}{Congruency tasks}{14}{section*.7}
+\contentsline {subsection}{Congruency sequence effects}{15}{section*.7}
+\contentsline {subsection}{List-wide proportion congruence effects}{15}{section*.7}
+\contentsline {subsection}{Item-specific proportion congruence effects}{16}{section*.7}
+\contentsline {subsection}{Context-specific proportion congruence effects}{17}{section*.7}
+\contentsline {subsection}{Other related cognitive control phenomena}{18}{section*.7}
+\contentsline {subsection}{A summary of automatic attentional control phenomena}{19}{section*.7}
+\contentsline {section}{An instance theory of automatic attentional control}{19}{section*.7}
+\contentsline {subsection}{Theoretical foundations of the instance theory}{20}{section*.8}
+\contentsline {subsubsection}{A processing view of memory}{20}{section*.8}
+\contentsline {subsubsection}{Automaticity as single-step memory retrieval}{22}{section*.8}
+\contentsline {subsubsection}{Procedures of the mind: Storage, retrieval, and reinstatement}{23}{section*.8}
+\contentsline {subsection}{The (potential) explanatory power of an instance theory}{24}{section*.8}
+\contentsline {section}{Overview of empirical chapters}{25}{section*.8}
+\contentsline {chapter}{\numberline {2}INTENTIONAL CONTROL AS A PRE-REQUISITE FOR CONTEXTUAL CONTROL}{26}{chapter.2}
+\contentsline {section}{Preface}{26}{section*.9}
+\contentsline {section}{Abstract}{27}{section*.9}
+\contentsline {section}{Introduction}{28}{section*.9}
+\contentsline {section}{Experiment 1}{33}{section*.9}
+\contentsline {subsection}{Methods}{35}{figure.caption.10}
+\contentsline {subsubsection}{Subjects}{35}{figure.caption.10}
+\contentsline {subsubsection}{Apparatus \& Stimuli}{35}{figure.caption.10}
+\contentsline {subsubsection}{Design}{35}{figure.caption.10}
+\contentsline {subsubsection}{Procedure}{35}{figure.caption.10}
+\contentsline {subsection}{Results}{36}{table.caption.11}
+\contentsline {subsection}{Discussion}{36}{figure.caption.12}
+\contentsline {section}{Experiment 2}{39}{figure.caption.12}
+\contentsline {subsection}{Methods}{40}{figure.caption.13}
+\contentsline {subsubsection}{Subjects}{40}{figure.caption.13}
+\contentsline {subsubsection}{Apparatus \& Stimuli}{40}{figure.caption.13}
+\contentsline {subsubsection}{Design}{40}{figure.caption.13}
+\contentsline {subsubsection}{Procedure}{41}{figure.caption.13}
+\contentsline {subsection}{Results}{41}{figure.caption.13}
+\contentsline {subsubsection}{Training Phase.}{41}{figure.caption.13}
+\contentsline {subsubsection}{Mixed Phase.}{41}{figure.caption.13}
+\contentsline {subsection}{Discussion}{42}{figure.caption.13}
+\contentsline {section}{Experiment 3}{42}{figure.caption.13}
+\contentsline {subsection}{Methods}{43}{section*.14}
+\contentsline {subsubsection}{Subjects}{43}{section*.14}
+\contentsline {subsubsection}{Apparatus \& Stimuli}{43}{section*.14}
+\contentsline {subsubsection}{Design}{43}{section*.14}
+\contentsline {subsubsection}{Procedure}{43}{section*.14}
+\contentsline {subsection}{Results}{43}{section*.14}
+\contentsline {subsubsection}{Training Phase}{44}{section*.14}
+\contentsline {subsubsection}{Mixed Phase}{44}{section*.14}
+\contentsline {subsection}{Discussion}{44}{section*.14}
+\contentsline {section}{Experiment 4}{44}{figure.caption.15}
+\contentsline {subsection}{Methods}{45}{section*.16}
+\contentsline {subsubsection}{Subjects}{45}{section*.16}
+\contentsline {subsubsection}{Apparatus \& Stimuli}{46}{section*.16}
+\contentsline {subsubsection}{Design}{46}{section*.16}
+\contentsline {subsubsection}{Procedure}{46}{section*.16}
+\contentsline {subsection}{Results}{47}{section*.16}
+\contentsline {subsubsection}{Training phase}{47}{section*.16}
+\contentsline {subsubsection}{Mixed phase}{47}{section*.16}
+\contentsline {subsubsection}{Block analysis}{48}{figure.caption.17}
+\contentsline {subsection}{Discussion}{49}{figure.caption.18}
+\contentsline {section}{General Discussion}{52}{figure.caption.18}
+\contentsline {chapter}{\numberline {3}SINGLE EXPERIENCES WITH CONFLICT HAVE LONG-LASTING EFFECTS ON COGNITIVE CONTROL}{58}{chapter.3}
+\contentsline {section}{Preface}{58}{section*.19}
+\contentsline {section}{Abstract}{59}{section*.19}
+\contentsline {section}{Introduction}{60}{section*.19}
+\contentsline {subsection}{Long-term retrieval of control settings}{60}{section*.20}
+\contentsline {subsection}{Congruency effects}{63}{section*.20}
+\contentsline {subsubsection}{Congruency sequence effects.}{63}{section*.20}
+\contentsline {subsubsection}{Proportion congruent effects.}{65}{section*.20}
+\contentsline {subsection}{Overview of present studies}{67}{section*.20}
+\contentsline {section}{Experiment 1A, 1B, and 1C}{68}{section*.20}
+\contentsline {subsection}{Methods}{69}{section*.21}
+\contentsline {subsubsection}{Participants.}{69}{section*.21}
+\contentsline {subsubsection}{Apparatus \& Stimuli.}{69}{section*.21}
+\contentsline {subsubsection}{Design.}{69}{section*.21}
+\contentsline {subsubsection}{Procedure.}{70}{section*.21}
+\contentsline {subsection}{Results}{72}{figure.caption.22}
+\contentsline {subsubsection}{Long-term congruency sequence effects.}{72}{figure.caption.22}
+\contentsline {subsubsection}{\textit {n}-1 congruency sequence effects.}{72}{figure.caption.22}
+\contentsline {subsection}{Discussion}{74}{figure.caption.23}
+\contentsline {section}{Experiment 2A and 2B}{76}{table.caption.25}
+\contentsline {subsection}{Methods}{79}{section*.26}
+\contentsline {subsubsection}{Participants.}{79}{section*.26}
+\contentsline {subsubsection}{Apparatus \& Stimuli.}{79}{section*.26}
+\contentsline {subsubsection}{Procedure.}{79}{section*.26}
+\contentsline {subsection}{Results}{80}{section*.26}
+\contentsline {subsubsection}{Long-term congruency sequence effects.}{80}{section*.26}
+\contentsline {subsubsection}{\textit {n}-1 congruency sequence effects.}{81}{section*.26}
+\contentsline {subsection}{Discussion}{82}{figure.caption.27}
+\contentsline {section}{Experiment 3A and 3B}{83}{figure.caption.27}
+\contentsline {subsection}{Methods}{84}{section*.28}
+\contentsline {subsubsection}{Participants.}{84}{section*.28}
+\contentsline {subsubsection}{Apparatus \& Stimuli.}{84}{section*.28}
+\contentsline {subsubsection}{Design.}{84}{section*.28}
+\contentsline {subsubsection}{Procedure.}{85}{section*.28}
+\contentsline {subsection}{Results}{85}{section*.28}
+\contentsline {subsection}{Experiment 3A: \textit {n}-8 trials}{86}{section*.28}
+\contentsline {subsubsection}{Long-term congruency sequence effects.}{86}{section*.28}
+\contentsline {subsubsection}{\textit {n}-1 congruency sequence effects.}{86}{section*.28}
+\contentsline {subsection}{Experiment 3B: \textit {n}-160 trials}{86}{section*.28}
+\contentsline {subsubsection}{Long-term congruency sequence effects.}{86}{section*.28}
+\contentsline {subsubsection}{\textit {n}-1 congruency sequence effects.}{87}{section*.28}
+\contentsline {subsection}{Discussion}{87}{figure.caption.29}
+\contentsline {section}{Stimulus-Response Repetition Analyses}{88}{figure.caption.29}
+\contentsline {subsection}{Long-Term Congruency Sequence Effects.}{88}{section*.30}
+\contentsline {subsection}{\textit {n}-1 Congruency Sequence Effects.}{89}{section*.30}
+\contentsline {section}{Short- and Long-Term Comparison Analysis}{90}{figure.caption.31}
+\contentsline {section}{General Discussion}{91}{figure.caption.31}
+\contentsline {subsection}{Control perspectives}{92}{section*.32}
+\contentsline {subsubsection}{Expectation and voluntary control accounts.}{92}{section*.32}
+\contentsline {subsubsection}{Conflict-monitoring accounts.}{93}{section*.32}
+\contentsline {subsubsection}{Conflict-monitoring with memory selection.}{94}{section*.32}
+\contentsline {subsection}{Non-control perspectives}{96}{section*.32}
+\contentsline {subsubsection}{Contingency learning.}{96}{section*.32}
+\contentsline {subsubsection}{Stimulus-specific repetition priming and feature integration.}{97}{section*.32}
+\contentsline {subsubsection}{Perceptual learning and attentional control.}{99}{section*.32}
+\contentsline {subsection}{Short- and long-term congruency sequence effects: Single or multiple processes?}{101}{section*.32}
+\contentsline {section}{Broader implications}{102}{section*.32}
+\contentsline {chapter}{\numberline {4}CONTEXTUAL RECRUITMENT OF SELECTIVE ATTENTION CAN BE UPDATED VIA CHANGES IN TASK-RELEVANCE}{104}{chapter.4}
+\contentsline {section}{Preface}{104}{section*.33}
+\contentsline {section}{Abstract}{105}{section*.33}
+\contentsline {section}{Introduction}{106}{section*.33}
+\contentsline {section}{The Current Study}{109}{section*.33}
+\contentsline {section}{Methods}{111}{section*.33}
+\contentsline {subsection}{Participants}{111}{figure.caption.34}
+\contentsline {subsection}{Apparatus \& Stimuli}{112}{figure.caption.34}
+\contentsline {subsection}{Design}{112}{figure.caption.34}
+\contentsline {subsection}{Procedure}{113}{figure.caption.34}
+\contentsline {section}{Results}{114}{figure.caption.35}
+\contentsline {section}{General Discussion}{115}{table.caption.36}
+\contentsline {chapter}{\numberline {5}GENERAL DISCUSSION}{120}{chapter.5}
+\contentsline {section}{Summary of empirical chapters}{121}{section*.37}
+\contentsline {section}{Re-evaluating the instance theory of automatic attentional control}{122}{section*.37}
+\contentsline {section}{Limitations and open questions}{124}{section*.37}
+\contentsline {subsection}{The limitations of verbal theories}{124}{section*.38}
+\contentsline {subsection}{Do we need to assume attentional control settings are preserved in memory?}{126}{section*.38}
+\contentsline {subsection}{Do we actually need three kinds of attentional control?}{128}{section*.38}
+\contentsline {section}{Broader implications}{129}{section*.38}
+\contentsline {chapter}{\numberline {6}REFERENCES}{131}{chapter.6}

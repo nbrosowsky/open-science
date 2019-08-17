@@ -1,0 +1,267 @@
+---
+title: "Dissertation Proposal"
+author: "Nicholaus P. Brosowsky"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  word_document: default
+  pdf_document: default
+header-includes:
+- \usepackage{caption}
+- \captionsetup{justification=raggedright}
+- \raggedbottom
+---
+
+# Context-specific attentional sampling: Intentional control as a pre-requisite for contextual control 
+
+---
+
+# Preface
+This chapter is reproduced from a published article in \textit{Conciousness and Cognition} (for consistency, I have adjusted the format of the manuscript for the thesis). The full reference to the article:
+
+\vspace{1em}
+\noindent Brosowsky, N.P., & Crump, M.J.C. (2016), Context-specific attentional sampling: Intentional control as pre-requisite for contextual control. \textit{Consciousness and Cognition}, 44, 146-160. https://doi.org/10.1016/j.concog.2016.07.001
+\vspace{1em}
+
+Chapter 2 presents a set of four experiments extending prior work on proportion congruency phenomena using a novel bi-dimensional selective attention task. The aim of experiments 1 and 2 was to determine whether context-specific proportion congruent effects would generalize to a non-conflict selective attention task. Borrowing elements of Sperling's partial report task (Sperling, 1960) and the location-specific proportion congruent task (Crump, Gong & Milliken, 2006), target stimuli consisted of four letters superimposed over four colors were presented either above or below the fixation. After the stimulus was presented, participants were asked to identify either a letter or color at a particular position. Critically, the proportion of letter versus color identification trials were manipulated such that the locations were predictive of the identification dimension. Therefore, in our task, attentional priorities could be biased along one of two dimensions as predicted by the location of the target stimuli. However, in both experiments we found no evidence for context-specific effects.
+
+The failure to find context-specific effects in experiment 1 and 2 was used as an opportunity to test general principles of the memory-based account and explore the role of intentions in producing contextual control. Memory-based theories explain contextual control by cue-driven retrieval and reinstatement of attentional priorities. One critical assumption then, is that participants possess memory traces that code for different attentional priorities for different contexts. Context-specific attentional control may fail to develop if participants do not have experiences applying attention differentially within each context. 
+
+We hypothesized that stimuli in conflict tasks (e.g., Stroop and flanker) may afford certain attentional priorities on the basis that one dimension either facilitates or impairs responding accurately (i.e., congruent versus incongruent stimuli). In those tasks, intentional control may not be required because the task itself produces experiences applying different attentional priorities in different contexts (e.g., down-weighting the irrelevent dimension on incongruent trials in the mostly incongruent location). In our task however, intentional control may be required because our stimuli do not cause participants to adopt differing attentional strategies (i.e., there is no congruent/incongruent). Experiments 3 and 4 examined this possibility and found that context-specific effects could be produced in our task but were dependent on prior experiences intentionally applying context-specific attentional control strategies.
+
+\begin{figure}
+  \centering
+  \includegraphics[width=5in]{Ch2-task.pdf}
+  \caption{Illustration of the trial sequence for all experiments. Note that the target could appear above or below the fixation. The identity cue ("Color?" or "Letter?") always appeared in the center of the screen while the position cue ("- - ? -") always appeared in the same location as the target. Participants were instructed to report either the letter or color in the cued position.}
+  \label{IC_figure1}
+\end{figure}
+
+
+# Experiment 1
+
+## Methods
+
+### Subjects 
+All subjects were Brooklyn College undergraduate students (approximately ages 18-22) who participated for course credit. Twenty subjects completed Experiment 1 and all were included in the analysis.
+
+### Apparatus & Stimuli
+All experiments were programmed using LiveCode 7.0. The target stimuli consisted of four lower-case letters (o, e, c, and a) superimposed on four colored squares (red, green, blue, and yellow). The relative positions of letters and colors on each trial were randomly chosen from all possible letter/color permutations. The background was black and stimuli were presented either above or below the fixation on a dark gray rectangle. 
+	
+The keyboard was labeled to indicate the four letters and four color responses required. The keys A, S, D, and F were relabeled to A, O, E, and C respectively; and, the keys H, J, K, and L were relabeled as red, blue, green, and yellow, respectively.
+
+### Design 
+Experiment 1 used a 2x2 within-subjects design with cue validity (75% vs. 25%) and task (color identification vs. letter identification) as factors. There were 480 trials in Experiment 1. One location (randomly assigned as above or below the fixation) consisted of 75% color identification trials (160 trials) and 25% letter identification trials (80 trials) while the other location consisted of 75% letter identification trials and 25% color identification trials. The trial sequence was randomized and presented in an intermixed fashion for each subject.
+
+### Procedure
+Each subject read a brief overview about the stimuli they would be presented and the types of responses required before signing a consent form. Subjects were instructed to remember the locations of both the colors and letters. Immediately following the target stimulus, a cue would indicate the to-be-identified target, which could be a letter or a color, located in any of the four positions.
+
+Each trial began with a white fixation-cross presented in the center of the screen for 500 ms followed by a blank screen for 500 ms. Next, the target stimulus containing the four letters and four colors appeared for 300 ms followed immediately by the instructions for which stimulus to identify. The dimension of the to-be-identified stimulus was indicated by the words "Letter?" or "Color?" presented in the center of the screen and its location was indicated by three dashes and a question mark (i.e., "- - ? -") presented in the same location as the target stimulus. For example, "Letter?" and "? - - -" would indicate the letter located in the first position. No accuracy feedback was given following a response and the next trial began automatically. A mandatory 30-second break was given every 120 trials.
+
+# Experiment 2
+
+## Methods
+
+### Subjects
+All subjects were Brooklyn College undergraduate students (approximately ages 18-22) who participated in this study for course credit. Twenty-one subjects completed Experiment 2.
+
+### Apparatus & Stimuli 
+The apparatus and stimuli were identical to Experiment 1.
+
+### Design 
+The design was similar to Experiment 1 except that subjects completed a blocked practice phase prior to the mixed phase. Experiment 2, therefore involved a one-way within-subjects practice phase with task as a factor (color identification vs. letter identification) and a separate 2x2 within-subjects design for the mixed phase with cue validity (75% vs. 25%) and task (color identification vs. letter identification) as factors. The high-proportion tasks assigned to each location (above or below the fixation) were randomly assigned across subjects. The locations assigned to each task in the blocked practice phase were kept consistent with the validity manipulation in the mixed phase. For example, if the above location was assigned to color during the block phase, the same location was assigned to be 75% color identification in the mixed phase. Whether the first practice block involved the color or letter location was randomly assigned across subjects.
+
+There were a total of 512 trials. The first practice block included 128 trials, with all stimuli appearing in one location and requiring only one identification task. The second block repeated this procedure with the other location and identification task. The last two blocks (the mixed phase) consisted of 128 trials each, with 50% color and letter identification trials occurring with equal probability above or below the fixation. As with Experiment 1, one location (randomly assigned as above or below the fixation) consisted of 75% color identification trials (96 trials) and 25% letter identification trials (32 trials) while the other location consisted of 75% letter identification trials and 25% color identification trials. The trial sequence was randomized for each subject. 
+	
+### Procedure
+The procedure was identical to Experiment 1. 
+
+# Experiment 3
+
+## Methods
+
+### Subjects 
+All subjects were Brooklyn College undergraduate students (approximately ages 18-22) who participated in this study for course credit. A total of 20 subjects completed Experiment 3.
+
+### Apparatus & Stimuli 
+The apparatus and stimuli were identical to the previous experiments.
+
+### Design 
+The design was identical to Experiment 2. 
+
+### Procedure 
+The procedure was similar to Experiment 2, however in Experiment 3 subjects were made aware of the proportion manipulation and instructed to follow explicit strategies consistent with the predictiveness of the location cue. Specifically, they were instructed to maintain the strategy of "attend more to the letters in the letter location" and "attend more to the colors in the color location" as defined by their practice phase. In addition, they were told to do there best when they were asked to identify a dimension that was inconsistent with the strategy, but to continue the strategy.
+
+# Experiment 4
+
+## Methods
+
+### Subjects 
+All subjects were Brooklyn College undergraduate students (approximately ages 18-22) who participated in this study for course credit. Twenty-six subjects completed Experiment 4.
+
+### Apparatus & Stimuli 
+The apparatus and stimuli were identical to the previous experiments.
+
+### Design 
+The design was similar to Experiment 3 except that subjects completed blocks of trials where the high-proportion locations were reversed. This involved a practice phase with task as a factor (color identification vs. letter identification), and a separate 2x2x2 within-subjects design for the mixed phase with cued validity (75% vs. 25%), task (color identification vs. letter identification) and test blocks (trained context vs. reversed context) as factors. The high-proportion tasks assigned to each location (above or below the fixation) were randomly assigned across subjects. The locations assigned to each high-proportion task in the blocked practice phase were consistent with the trained context blocks and reversed in the reversed context blocks. Additionally, whether the first practice block involved the high-proportion color or high-proportion letter location was also randomly assigned across subjects.
+
+There were 480 trials. The first practice block included 48 trials, with all stimuli appearing in one location and requiring only one identification task. The second block repeated this procedure with the other location and other identification task. The mixed phase involved four blocks of 96 trials with 50% color and letter identification trials occurring with equal probability above or below the fixation. One location (randomly assigned to above or below the fixation) consisted of 75% color identification trials and 25% letter identification trials while the other location consisted of 75% letter identification trials and 25% color identification trials. The first and third blocks were trained context blocks, in that the locations for the valid trials were consistent with those during training. The second and fourth blocks were reversed context blocks, in that the locations for the valid trials were reversed from those in the training phase. The trial sequence was randomized for each subject. 
+
+### Procedure 
+The procedure was similar to Experiment 3, in that subjects were made aware of the proportion manipulation and instructed to follow explicit strategies to account for the predictiveness of the location cue. However, every 96 trials, the prompt would instruct them to reverse their strategies. 
+
+\newpage
+
+# Memory-guided selective attention: Single experiences with conflict have long-lasting effects on cognitive control
+
+---
+
+# Preface
+
+This chapter is reproduced from a published article in \textit{Journal of Experimental Psychology: General} (for consistency, I have adjusted the format of the manuscript for the thesis). The full reference to the article:
+
+\vspace{1em}
+Brosowsky, N.P. & Crump, M.J.C. (2018), Memory-guided selective attention: Single experiences with conflict have long-lasting effects on cognitive control. Journal of Experimental Psychology: General , 147(8), 1134-1153. http://dx.doi.org/10.1037/xge0000431 
+\vspace{1em}
+
+\noindent Chapter 3 presents a set of three experiments testing general principles of the instance-based memory account. Two key assumptions fall out of the memory-based account: (1) processing details from individual experiences are stored in memory traces, and (2) these memory traces are preserved in the long-term. Context-specific proportion congruent phenomena are often taken as evidence for a memory-based retrieval process; however, because a small set of items repeat throughout the experiment it is not possible to trace the changes in performance back to any single prior experience. Here, we examined whether single experiences can have long-term effects (4 to 319 intervening trials) on selective attention in a Flanker paradigm.
+
+Long-term item-specific effects have been demonstrated sporadically across different cognitive control paradigms (e.g., negative priming; DeSchepper & Treisman, 1996, task-switching; Waszak, Hommel, & Allport, 2003) but has never been examined within the context of more traditional selective attention paradigms like the Stroop and flanker tasks. However, congruency effects have been shown to be influenced by the immediately preceding trial. Known as the congruency sequence effect, this finding demonstrates that single experiences can influence attentional control in the short-term. In this study we extended this work by investigating whether context cues could be used to produce long-term congruency sequence effects. That is, we used a large set of items to determine whether a single experience applying attentional control one a specific item would influence a second presentation of that same item after many intervening trials. If so, we predicted we would see a pattern of results similar to the congruency sequence effect. 
+
+Across three experiments we found evidence that single experiences can influence selective attention after many intervening trials (4 to 319). However, we also note some boundary conditions, failing to find such effects when the repeated items differed in superficial details (color). 
+
+# Experiment 1
+
+## Methods
+
+### Participants. 
+
+All participants were recruited from Amazon Mechanical Turk (AMT) and compensated \$1.00 (experiment 1A & 1B) or \$3.00 (experiment 1C) for participating. The amount compensated was calculated by estimating the maximum amount of time required to complete each experiment and multiplying by $6.00 per hour. For each experiment the number of HITs (Human intelligence tasks, an Amazon term for a work-unit) refers to the number of participants who initiated the study. Participants were included in the study if they completed all trials and each experiment consisted of unique participants. For experiment 1A, 40 HITs were posted, and 40 participants completed all trials. For experiment 1B, 40 HITs were posted, and 39 participants completed all trials, and for experiment 1C, 55 HITs were posted, and 54 participants completed all trials. 
+
+### Apparatus & Stimuli. 
+
+The experiments were programmed using JavaScript, CSS and HTML. The program allowed participants to complete task only if they were running Safari, Google Chrome, or Firefox web browsers. Flanker stimuli were constructed using the 540 images created by Brady, Konkle, Gill, Oliva, and Alvarez (2013). Images were color rotated to either blue or green (for a more detailed description see Brady et al., 2013) and presented at 200 x 200 pixels. Each experiment ran as a pop-up window that filled the entire screen. The background was white, and stimuli were presented in the center of the screen.
+
+### Design. 
+
+Experiment 1 used a 2x2x3 mixed design with prime congruency (congruent vs. incongruent) and probe congruency (congruent vs. incongruent) as within-subject factors, and experiment (1A, 1B, and 1C) as the between-subject factor.
+
+Experiments 1A, 1B, and 1C were all constructed using the same general method (see Figure 1). Every block of 16 trials was divided into four sub-blocks, each consisting of four trials (referred to as the Prime A, Prime B, Probe A, and Probe B sub-blocks). The images presented in the Prime A sub-block were then repeated in the Probe A sub-block and images presented in the Prime B sub-block, repeated in the Probe B sub-block. The trial order of each sub-block was randomized. The use of the interleaved A/B sub-blocks ensured that the distance between any probe (trial n) and prime stimulus pair ranged from $n-5$ to $n-11$. Importantly, the congruency of each prime/probe pair was randomized and counterbalanced across each block with an equal number of each congruency combination (i.e., Con -- Con, Con -- Inc, Inc -- Con, and Inc -- Inc), and an equal number of response repetition and alternation prime/probe pairs. Additionally, images were randomly selected for every participant from the total 540 images (Brady et al., 2013) and randomly assigned a color and condition. Each image was only presented twice during the experiment: once in a prime block and once in a probe block.
+
+Experiment 1A consisted of 192 trials constructed using this basic method. Experiment 1B used the same general design but included a secondary task where participants were instructed to press the spacebar if the center image differed in identity to the flanking images. This alternate task occurred once for every 8 flanker trials, bringing the total trials to 216. Experiment 1C was identical to experiment 1B except the number of trials was doubled, bringing the total to 432 trials.
+
+### Procedure. 
+
+All participants were AMT workers who found the experiment using the AMT system. The participant recruitment procedure and tasks were approved by the Brooklyn College Institutional Review Board. Each participant read a short description of the task and gave consent by pressing a button acknowledging they had read the displayed consent form. Participants then completed a short demographic survey, and proceeded to the main task, which was displayed as a pop-up window. Participants were instructed to identify the color of the center image on each trial as quickly and accurately as possible by pressing 'g' if the image was green, and 'b' if the image was blue. For experiments 1B and 1C, participants were further instructed to press the spacebar if the identity of the center image differed from the identity of the flanking images. Throughout the course of the experiment the upper left corner of the display indicated the number of completed and remaining trials, as well as an instruction reminder button that displayed the instructions in a new pop-up window.
+
+Each trial began with a fixation cross presented in the center of the screen for 1,000 ms, followed by a blank inter-stimulus interval (ISI) of 250 ms. Next, the flanker stimulus appeared in the center of screen, and remained on screen until a response was made. Following a response, feedback indicating whether the response was correct or incorrect was presented above the target stimulus for 500 ms. For experiments 1B and 1C, if the participant failed to press the spacebar on a secondary task trial, a message appeared below the target stimulus reminding the participant of the secondary task instructions. A response automatically triggered the next trial. 
+
+Halfway through experiments 1A (96 trials) and 1B (108 trials), participants were instructed to take a short break, and to press the button on-screen when they were ready to continue. In experiment 1C they received this message three times, each after they had completed 108 trials.  
+
+
+\begin{figure}
+  \centering
+  \includegraphics[width=4in]{Ch3-task.png}
+  \caption{Figure 2A shows examples of the stimuli and basic prime/probe structure used in all experiments. Figure 2B shows the trial block structures from Experiments 1 and 2. In Experiment 1, every block of 16 trials was divided into four sub-blocks, each consisting of four trials (referred to as the Prime A, Prime B, Probe A, and Probe B sub-blocks). The images presented in the Prime A sub-block were then repeated in the Probe A sub-block and images presented in the Prime B sub-block, repeated in the Probe B sub-block. In Experiment 2, there were two blocks of trials, each consisting of 160 trials. The images presented in the Prime block were then repeated in the Probe block.}
+  \label{figure2}
+\end{figure}
+
+# Experiment 2
+
+## Methods 
+
+### Participants. 
+
+All participants were recruited from Amazon Mechanical Turk (AMT) and compensated \$2.00 for participating. The amount compensated was calculated by estimating the maximum amount of time required to complete each experiment and multiplying by \$6.00 per hour. For each experiment the number of HITs (Human intelligence tasks, an Amazon term for a work-unit) refers to the number of participants who initiated the study and each experiment consisted of unique participants. Participants were included in the study if they completed all trials. For experiment 2A, 40 HITs were posted, and 39 participants completed all trials. For experiment 2B, 40 HITs were posted, and 40 participants completed all trials.
+
+### Apparatus & Stimuli. 
+
+The apparatus and stimuli were identical to those used in experiment 1.
+Design. Experiment 2 used a 2x2x2 mixed design with prime congruency (congruent vs. incongruent) and probe congruency (congruent vs. incongruent) as within-subject factors, and experiment (2A and 2B) as the between-subject factor.
+
+Experiments 2A and 2B were both constructed using the same general method. Both experiments consisted of 320 total trials divided into two halves, a prime block and probe block. The prime block was constructed using 160 unique images randomly selected for each participant from the total 540 images (Brady et al., 2013). The images presented in the prime block were then repeated in the probe block. The trial order for each block was randomized, so the distance between any given probe (trial n) and prime stimulus paired ranged from $n-1$ to $n-319$. Each experiment consisted of 50% congruent/incongruent trials, an equal number of each congruency combination between prime/probe pairs (i.e., Con -- Con, Con -- Inc, Inc -- Inc, and Inc -- Con), and an equal number of response repetition and response alternation prime/probe pairs.
+
+### Procedure. 
+
+All participants were AMT workers who found the experiment using the AMT system. The participant recruitment procedure and tasks were approved by the Brooklyn College Institutional Review Board. Each participant read a short description of the task and gave consent by pressing a button acknowledging they had read the displayed consent form. Participants then completed a short demographic survey, and proceeded to the main task, which was displayed as a pop-up window. Participants were instructed to identify the color of the center image on each trial as quickly and accurately as possible by pressing 'g' if the image was green, and 'b' if the image was blue. Throughout the course of the experiment the upper left corner of the display indicated the number of completed and remaining trials, as well as an instruction reminder button that displayed the instructions in a new pop-up window.
+
+For experiment 2A, each trial began with a fixation cross presented in the center of the screen for 1,000 ms, followed by a blank ISI of 250 ms. Next, the flanker stimulus appeared in the center of screen, and remained on screen until a response was made. Feedback indicating whether the answer was correct or incorrect was presented above the target stimulus following a response and remained on-screen for 500 ms which automatically triggered the next trial. For experiment 2B, each trial began with a fixation cross presented in the center of the screen for 1,000 ms, followed by a blank ISI of 250 ms. Next, the flanking images appeared for 100 ms followed by the presentation of the center image. All images remained on screen until a response was given. Feedback indicating whether the answer was correct or incorrect was presented above the target stimulus following a response and remained on-screen for 500 ms which automatically triggered the next trial. In both experiments, after every 80 trials, a message appeared on-screen that instructed participants to take a short break and to press the button when they were ready to continue.
+
+# Experiment 3
+
+## Methods
+
+### Participants. 
+
+All participants were recruited from Amazon Mechanical Turk (AMT) and compensated \$1.00 for participating. The amount compensated was calculated by estimating the maximum amount of time required to complete each experiment and multiplying by \$6.00 per hour. For each experiment the number of HITs (Human intelligence tasks, an Amazon term for a work-unit) refers to the number of participants who initiated the study and each experiment consisted of unique participants. Participants were included in the study if they completed all trials. For experiment 3A, 50 HITs were posted, and 50 participants completed all trials. For experiment 3B, 50 HITs were posted, and 47 participants completed all trials.
+
+### Apparatus & Stimuli. 
+
+The apparatus and stimuli were identical to those used in experiments 1 and 2.
+
+### Design. 
+
+Experiment 3 used a 2x2 within-subjects design with prime congruency (congruent vs. incongruent) and probe congruency (congruent vs. incongruent) as factors.
+
+Experiment 3A was constructed using the methods as described in experiment 1A. Therefore, experiment 3A consisted of 192 total trials with the distance between each prime and probe stimulus pair ranging from $n-5$ to $n-11$. Experiment 3B was constructed using the methods as described in experiment 2. Therefore, experiment 3B consisted of 320 total trials with the distance between each prime and probe stimulus pair ranged from $n-1$ to $n-319$. Each experiment consisted of 50% congruent/incongruent trials, an equal number of each congruency combination between prime/probe pairs (i.e., Con -- Con, Con -- Inc, Inc -- Inc, and Inc -- Con). Images were randomly selected for every participant from the total 540 images (Brady et al., 2013) and randomly assigned a color and condition. Each image was only presented twice during the experiment: once in a prime block and once in a probe block.
+
+The colors of the images however, differed from experiments 1 and 2. For experiment 3, images could appear in one of four colors: blue, green, red, or yellow. For each participant, the four colors were randomly assigned to two color sets (e.g., blue/green, red/yellow), such that colors in differing sets were never presented together on a single trial (e.g., green/yellow never appeared together). Additionally, each prime/probe pair always consisted of colors from both sets to ensure that colors did not repeat from the prime to probe trial. The assignment of colors to prime/probe trials was counterbalanced for each participant. Therefore, on 50% of trials, color set 1 was assigned to the prime stimuli and color set 2 to the corresponding probe, and on the other half, color set 2 was assigned to the prime and color set 1 to the probe.
+
+### Procedure. 
+
+The procedure was identical to experiments 1 and 2. However, because of the use of four colors, participants were instructed to identify the color of the center image on each trial as quickly and accurately as possible by pressing 'b' if the image was blue, 'g' if the image was green, 'r' if the image was red, and 'y' if the image was yellow. 
+
+\newpage
+
+# Contextual recruitment of selective attention can be updated via changes in task-relevance
+
+---
+
+# Preface
+
+This chapter is reproduced from a manuscript currently under review (for consistency, I have adjusted the format of the manuscript for the thesis). The full reference to the article:
+
+\vspace{1em}
+\noindent Brosowsky, N., & Crump, M. (2019, January 15). Contextual recruitment of selective attention can be updated via changes in task-relevance. https://doi.org/10.31234/osf.io/43tj7
+\vspace{1em}
+
+\noindent Chapter 4 presents an experiment that examines the role of task-relevance in producing and updating context-specific control. Context-specific attentional phenomena demonstrate that prior experiences and context cues can automatically trigger adjustments in attentional control independent of awareness and intentions. Although this finding seems plausible in a laboratory task where there is only a single context cue (e.g., location), it is unclear how such a process would operate in more complex, real-world environments that contain a multitude of contextual features. That is, what determines which context features in my environment are used to guide attention? In this experiment, we asked whether task-relevant context cues will trigger adjustments to attention in the presence of competing irrelevant context cues. And whether changes in the relative task-relevance will cause changes contextual control. 
+
+We adopted a paradigm similar to the context-specific proportion congruent (CSPC) transfer design. However, unlike previous CSPC designs where contexts were defined by a single discriminating feature (e.g., upper vs. lower screen locations), contexts were defined by two feature dimensions (see Figure 3A) and critically, the frequency unbiased context (50% congruent) always shared a feature with each of the frequency-biased contexts (0% and 100% congruent). To manipulate which overlapping feature was task-relevanct we used a secondary counting task. Halfway through the experiment the task-relevant context feature. Across three different stimulus sets, we found that changing the task-relevance caused predictable changes in the congruency effects. This result implicates an important role for task-relevance in producing and manipulating context-dependency in complex environments.
+
+
+
+# Experiment 1
+
+# Methods
+
+## Participants
+All participants were recruited from Amazon Mechanical Turk (AMT) and compensated \$2.00 for participating. The amount compensated was calculated by estimating the maximum amount of time required to complete each experiment and multiplying by \$6.00 per hour. For each experiment the number of HITs (Human intelligence tasks, an Amazon term for a work-unit) refers to the number of participants who initiated the study. Participants were included in the study if they completed all trials. We posted 150 HITs and 144 participants completed all trials. 
+ 
+## Apparatus & Stimuli
+
+
+\begin{figure}
+  \centering
+  \includegraphics[width=5in]{Ch4-task.jpg}
+  \caption{Illustration of the stimuli and trial construction. Figure 3A shows the feature dimensions for each of the conditions. Figure 3B shows an example trial stimulus containing both the context and flanker images. Figure 3C shows an example of how feature dimensions could have been assigned to each proportion congruency (PC) condition, and an example of the secondary task assignments. The secondary task order, as well as the feature and congruency assignments were all randomized for each participant.}
+  \label{figure3}
+\end{figure}
+
+
+The experiments were programmed using JavaScript, CSS and HTML. The program allowed participants to complete task only if they were running Safari, Google Chrome, or Firefox web browsers. Flanker stimuli consisted of images of five arrows pointed left or right presented at 250 x 50 pixels (each arrow was 50 x 50 pixels). Context stimuli were constructed using images selected from Brady, Konkle, Gill, Oliva, and Alvarez (2013) color-rotated to blue and green, and face images from the Chicago Face Database  (Ma,Correll, & Wittenbrink, 2015), supplemented with the NimStim Set of Facial Expressions (Tottenham et al., 2009). The object images were displayed at 250 x 250 pixels, while the face images were displayed at 250 x 313 pixels. The experiment ran as a pop-up window that filled the entire screen. The background was white, and stimuli were presented in the center of the screen.
+
+## Design 
+Experiment 1 used a 2x2x3 mixed design with task-relevant context (0% and 100%) and unbiased-item congruency (congruent and incongruent) as within-subject factors, and context-type (object, social, and social/non-repeating) as the between-subjects factor.
+All three conditions were constructed using the same general method. The experiment was divided into two phases. Each phase consisted of 144 flanker trials (48 trials per context), and 13 count response trials for a total of 314 trials. On the count response trials, participants indicated how many trials they had counted until that point. The count response trials occurred once for every 12 flanker trials and was randomly inserted between trial 6 and 12 of each 12-trial block. Each phase ended with one additional count response trial. 
+
+On every flanker trial, participants were presented with flanker stimuli paired with one of three contexts. Each context was associated with a different proportion congruency such that two cues were associated with a biased frequency (0% and 100% proportion congruency), while one was associated with an unbiased frequency (50% proportion congruency). The feature dimensions and corresponding context images assigned to each of the biased and unbiased item sets were randomly determined for each participant. However, context images used for the frequency biased trials never shared features, while the frequency unbiased context image always shared a feature with each of the frequency biased context images (see Figure 1). Additionally, the feature assignments remained the same throughout phases 1 and 2, and critically, the only change to the task was which feature the participant was instructed to count (see Figure 3C for an example).
+
+All critical aspects of the task were randomized between participants. This includes the three chosen context images, the features assigned to proportion levels, the features assigned to each counting condition, the secondary task order, and the order of trials.
+
+## Procedure
+All participants were AMT workers who found the experiment using the AMT system. The participant recruitment procedure and tasks were approved by the Brooklyn College Institutional Review Board. Each participant read a short description of the task and gave consent by pressing a button acknowledging they had read the displayed consent form. Participants then completed a short demographic survey, and proceeded to the main task, which was displayed as a pop-up window. Participants were instructed to identify the direction of the center arrow on each trial as quickly and accurately as possible by pressing 'z' if the arrow pointed left, and 'm' if the arrow pointed right. Additionally, they were instructed to silently keep count of the number of trials that contained a feature. In the object context condition, they were asked to count trials that contained a certain color (blue or green) or object-identity (hat or chair) and in the social context conditions they were asked to count the number of trials that contained appeared a certain gender (male or female) or race (black or white). Periodically throughout the experiment, participants were asked to report how many trials they had counted until that point and to restart their count from 0. Halfway through the experiment participants received new instructions about which feature to count (see Figure 1C).
+
+Each trial began with a blank inter-stimulus interval (ISI) of 400 ms, followed by a fixation cross presented in the center of the screen for 200 ms, then a second blank ISI of 400 ms. Next, the flanker and context stimuli appeared in the center of screen (the flanker above the context image; see Figure 1B) and remained on screen until a response was made. Following a response, accuracy feedback was presented for 1000 ms. A response automatically triggered the next trial. 
+
+Halfway through the experiment (157 trials), participants received new instructions about which feature to count and to press the button on-screen when they were ready to continue.
+
+

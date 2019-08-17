@@ -1,0 +1,402 @@
+---
+title: "General Introduction"
+output: pdf_document
+---
+
+Cognitive control refers collectively to all the processes required to adjust goal-directed behavior via attention and action selection processes that prioritize goal-relevant over irrelevant information [e.g., @egner_wiley_2017; @miller_integrative_2001]. These processes allow us to behave flexibly in the face of contradicting or ambiguous information and update behavior in response to the changing environment. Control processes are often thought to be in direct opposition to learned, automatic processing in that they enable us to disregard learned behaviors when they are inconsistent with our current goals. While driving, for example, you have learned that when the traffic light turns yellow, you should hit the breaks to prepare for a stop. However, if you are already halfway through the intersection, then you will need to exert cognitive control to inhibit that learned response and ignore the yellow light.
+
+Historically, cognitive control has fulfilled this supervisory role [e.g., @norman_attention_1986] and is typically thought to be voluntary [e.g., @bugg_support_2012], conscious [e.g., @dehaene_towards_2001; @evans_dual-process_2013; @kunde_consciousness_2012], and domain-general [e.g., @kan_adapt_2013]. However, adopting a strict dichotomy between "controlled" and "automatic" processes [@posner_facilitation_1975; @schneider_controlled_1977; @shiffrin_controlled_1977] downplays the possibility that memory might play a role in guiding control processing [@awh_top-down_2012; @hutchinson_memory-guided_2012]. Likewise, a recent surge in evidence that control processes can be shaped by prior experiences in a seemingly stimulus-driven manner suggests that memory may play a larger role in directing attention than previously thought [@bugg_support_2012; @egner_creatures_2014].
+
+The position forwarded in this thesis is that a memory-based framework is needed to fully understand attentional control. People often re-encounter similar objects, tasks, and environments that require similar cognitive control operations. A memory-retrieval process could shortcut the slow, effortful, and resource-demanding task of updating control by retrieving and reinstating the control procedures used in the past. The central aim of the thesis is to investigate general principles of an instance-based memory account of automatic attentional control.
+
+Before moving on, it is worth outlining the general structure of the thesis. The goal of the introduction will be to motivate the need for examining attentional control from a memory perspective. I will first review theories of attention and demonstrate that almost all include a role for memory but typically do not elaborate on that role. I will argue that this demonstrates a need for a memory-based framework from a theoretical perspective. I will then review empirical evidence in the selective attention domain demonstrating that prior experiences influence selective attention performance in a stimulus-driven manner. I will argue that this demonstrates a need for a memory-based framework from an empirical perspective. Finally, I will outline the instance theory of automatic attentional control and review its theoretical foundations.
+
+Chapter's 2 and 3 are published in peer-reviewed journals. Chapter 4 is currently under review. Each chapter will begin with a short preface to link the empirical work with the central aims of the thesis. Finally, in the general discussion I will evaluate the empirical work as a whole and elaborate on the contribution of the thesis to furthering theories of attention and cognitive control.
+
+# Does attention have a memory? Perspectives on automatic control
+
+In the following sections I will review perspectives on attentional control. This review is not exhaustive, but provides a representative selection of attention theories. The aim of this review is to examine the role memory plays in theories of attention. I will argue that memory has always held a prominent role in theoretical treatments of attention. Although modern research tends to characterizes attentional theories as all-or-none dichotomies such as controlled versus automatic (also, at times framed as top-down/bottom-up and endogenous/exogenous), almost all theories of attention allow for an "automatic control" whereby attention is guided by an internal memory representation. I will first provide some historical context to better situate each of the perspectives before describing each theory in more detail.
+
+## Some historical context
+
+Much of cognitive psychology is predicated on the assumption that responses to stimuli are mediated by an information processing system that is inherently limited in capacity and in need of an information selection mechanism [@allport_attention_1993; @allport_visual_1989]. Attention is thought to fulfill this role: it allows the information processing system to prioritize further processing of relevant information, making efficient use of the available resources, and preventing the system from overloading. Bottleneck models of attention conceptualized this control process as a structural property of the information processing system situated somewhere along the processing chain. The debate about where the filter should be placed along the processing chain (i.e., the early versus late selection debate) largely dominated this era of attention research and produced a number of influential attention theories [@broadbent_perception_1958; @deutsch_attention_1963; @kahneman_attention_1973; @norman_memory_1976; @norman_toward_1968; @treisman_contextual_1960; @treisman_selective_1964; @treisman_strategies_1969; for a review, see @driver_selective_2001]. 
+
+By the 1970s however, the bottleneck models of attention were largely overshadowed by capacity or resource models of attention [e.g., @kahneman_attention_1973]. Instead of a processing structure, attention was conceptualized as a resource that could be flexibly allocated at different stages of processing. Very early stages of processing, for instance, were thought to require little to no attentional resources and later stages required increasingly more attentional resources [@hasher_automatic_1979; @lavie_perceptual_1994; @lavie_perceptual_1995; @lavie_selective_2000]. This work ushered in a new debate about controlled versus automatic processing [@logan_attention_1992; @logan_toward_1988; @posner_facilitation_1975; @schneider_controlled_1977; @shiffrin_controlled_1977] that has dominated modern thinking of attentional control [e.g., @botvinick_evaluating_2001; @moors_automaticity_2006].
+
+More recently, views of selective attention have reverted back to conceptualizing attention as a control process subsumed under the "cognitive control" umbrella [@miller_plans_1960; @posner_facilitation_1975; @schneider_controlled_1977; @shiffrin_controlled_1977]. Cognitive control refers to a collection of processes that allows us to flexibly process and act in accordance to our internal goals and adapt to changes in our environmental context. It includes, for example, the ability to filter out task-irrelevant information (selective attention), update our task set to accommodate changes in our goals (task-switching), and inhibit inappropriate behaviors (response inhibition). As a construct, cognitive control evolved out of the literature on attention and is arguably inseparable from theories of selective attention [e.g., @botvinick_evaluating_2001; @cohen_control_1990; @egner_wiley_2017]; though, whether attention should be considered solely a function of control is questionable [e.g., @petersen_attention_2012]. 
+
+Theories of cognitive control typically adopt the strict controlled/automatic dichotomy and include assumptions about capacity limitations [@egner_wiley_2017]. Over the last two decades, research has largely focused on how top-down control biases stimulus processing and response selection [e.g., @botvinick_computational_2014]. More recently, there has been increasing interest in how control is regulated over time and how attentional control changes with experience. This work tends to appeal to principles of associative learning to explain how experience can shape control processing in a seemingly automatic, stimulus-specific manner [@abrahamse_grounding_2016; @chiu_cortical_2019; @egner_creatures_2014; @failing_selection_2018; @jiang_habit-like_2019; @jiang_habitual_2018]. Similarly, recent advances in the associative learning literature have demonstrated that learned "predictiveness" and "value" modulates both deliberate and automatic attention; much like in the cognitive control literature, they have proposed an automatic influence of learning on attention or "learned attentional priorities" [@kruschke_models_2011; @le_pelley_attention_2016; @mackintosh_theory_1975]. 
+
+## Treisman's attenuation model of attention (1960; 1964; 1969)
+
+Treisman's model of attention [-@treisman_contextual_1960; -@treisman_selective_1964; -@treisman_strategies_1969] was developed as a direct response to evidence that could not be accounted for by Broadbent's influential filter model (1958). Broadbent's filter theory was an extreme example of an 'early selection' attention model. He proposed two qualitatively different stages of processing: The first extracted physical properties (e.g., pitch, location) from incoming stimuli in a parallel manner; the second extracted more complex psychological characteristics like word meaning. The second stage was thought to be limited in capacity, unable to deal with all the incoming stimuli, and constrained to serial processing. The attentional filter was therefore placed between the first and second stage of processing as a means to protect the second stage from being overloaded. As a consequence, all unattended information, selected on the basis of physical properties, were blocked entirely from further processing.
+
+Treisman proposed an alternative model to accommodate growing evidence that sometimes unattended information was processed deeper than predicted by an early selection model [@cherry_experiments_1953; @moray_attention_1959; @morton_interaction_1969; @oswald_discriminative_1960; @shiffrin_visual_1972; @treisman_contextual_1960; @treisman_is_1969]. For instance, Moray (1959) found that participants would regularly notice their own name even when presented in the unattended channel [also see, @wood_cocktail_1995] and Treisman found that words were recognized in the unattended channel when they were highly probable, predicted by the semantic context of the attended channel. To address these findings, Treisman made two revisions to the early filter model: First, she suggested that the selective filter does not 'block' incoming information completely, but instead 'attenuates' the signal. The second stage would now receive some input from the unattended stimuli albeit less than the attended stimuli. Second, she suggested that words have different thresholds for detection.
+
+This second point is of particular importance for the present discussion on memory. Treisman posits a 'dictionary' or store of known words, each associated with different thresholds for detection. Important words like our own name, "help", or "fire" have permanently lowered thresholds and could be heard even if they were completely unattended (attenuated). Similarly, expectations and contextual information could temporarily lower thresholds allowing the detection of unattended, task-relevant information. According to Treisman, "if the three words 'I sang a' were heard, \textit{the stored trace} of the word 'song' in the dictionary would have its threshold considerably lowered" (Treisman, 1960). This would explain why task-relevant words, supported by the immediate context, could be heard in the unattended channel. 
+
+Thus, according to this model, selection can occur automatically for unattended stimuli when they are associated with a lowered threshold. To accept this assumption however, requires that all stimuli, attenuated or not, are able to cue memory and retrieve associated thresholds prior to further selection. Treisman's model therefore, includes a memory-guided selection mechanism. However, how stimuli come to be associated with lowered thresholds and/or how attenuation influences memory encoding and retrieval was not explained.
+
+## Norman's theory of memory and attention (1968) 
+
+In contrast to the attenuation model, other 'late selection' models were also formulated to address the limitations of Broadbent's early selection model [e.g., @deutsch_attention_1963; @duncan_locus_1980; @norman_toward_1968; @posner_chronometric_1978]. Late selection models also propose a distinction between the initial parallel processing stage and a second, capacity-limited processing stage. However, these models posit that all characteristics of a stimulus are extracted at the early stage, \textit{before selection occurs} and the selection process has access to, and can make use of, all of this information (e.g., physical features, meaning, etc.). Selection however, still occurs before stimuli are encoded into long-term memory. The lack of awareness of unattended stimuli, according to this view, has less to do with perceptual processing and more to do with attentional selection occurring before explicit memory formation. 
+
+Norman [-@norman_memory_1976; -@norman_toward_1968] provided one such late stage selection model [see also, @deutsch_attention_1963]. The problem of selection, according to Norman, could be resolved if the initial analysis was performed automatically, without any need for complex cognitive processing. The proposed solution was to allow the initial stage of perceptual processing to have access to memory storage. He posited that sensory information automatically activates its associated memory representation without any intervening cognitive processing. Attention occurs after this initial stage of processing, selecting inputs that are deemed relevant based both on \textit{stored attributes} of each input and physical attributes of each input. 
+
+Thus, there are two sources of input that determines selection: the sensory input and, what Norman refers to as, the 'pertinence' input. The pertinence input is the pre-specified importance or relevance of an input. The pertinence of an input can be set temporarily by the context, expectations, task-goals etc., but like Treisman's model, stimuli may also have associated levels of pertinence (e.g., your own name) -- Presumably, the automatic activation of a memory representation also retrieves its associated level of pertinence. According to this model then, both the sensory and the pertinence inputs activate representations in memory storage simultaneously and those inputs having the highest activation levels are selected for further processing. 
+
+Although Norman refers to two sources of inputs, in my view, there are actually three sources of information that determine selection. The sensory input, or physical salience of the stimulus, is one source of information. But the pertinence input, I would argue, is actually two sources of information: First, top-down goals can pre-set pertinence levels of task-relevant features prior to stimulus presentation. For example, if I know that the target will be red, I can temporarily increase the pertinence of the color red in preparation. Second, pertinence levels are retrieved from memory. Thus, if I hear my name, this cues the retrieval of a high pertinence level. How these two sources of information are aggregated into the 'pertinence' input is not clear. Similarly, how memory encodes, stores, and retrieves 'pertinence' values was not explained. Norman's model however, clearly includes a mechanism for memory-guided attention and is actually very similar to modern explanations of 'selection history' effects [e.g., @awh_top-down_2012; @failing_selection_2018].
+
+## Controlled, automatic and the "automatic attention response"
+
+Building on filter models of attention, which distinguished between a parallel and serial stage of processing [@broadbent_perception_1958; @deutsch_attention_1963; @norman_toward_1968; @treisman_strategies_1969], Shiffrin and Schneider proposed an information processing model that defined selective attention in terms of control processes. In contrast to previous models that focused on where the filter occurred, Shiffrin and Schneider shifted the conversation toward the distinction between \textit{controlled} and \textit{automatic} processing [@schneider_controlled_1977; @shiffrin_controlled_1977; see also, @posner_facilitation_1975]. 
+
+Information processing, under this view, is based on the activation of a sequence of nodes in long-term memory. A process is considered "automatic" if, given a particular input, a sequence of nodes are activated automatically "without the necessity of active control or attention" [@schneider_controlled_1977, p.2]. Automatic processes rely on a relatively permanent set of associative connections and require an appreciable amount of training to fully develop. Additionally, once an automatic process is learned, it is difficult to suppress or modify. 
+
+A process is considered "controlled" if a sequence of nodes are temporarily activated under "the control and attention of the subject" [@schneider_controlled_1977, p.2]. Controlled processes are capacity limited and only one sequence can be activated at a time without interference. Whereas automatic processes are considered fast and parallel, controlled processes are slow and serial. The trade-off however, is in flexibility: Automatic processes are rigid and ballistic, triggered by their associated inputs. Controlled processes can be flexibly set up, modified, and applied in novel situations.
+
+Interestingly, Shiffrin and Schneider included a third kind of process called the "automatic attention response". The automatic attention response was thought to be a special kind of automatic process. They proposed that training to recognize certain inputs as targets causes those inputs to automatically direct attention to the target, regardless of concurrent inputs or memory load. That is, those stimuli would acquire the ability to initiate an automatic attention response. They go on to suggest that automatic attention responses could be attached to individual stimulus features as well as categorical features and learning could occur simultaneously, perhaps at different rates, for different levels of features. Learning however, seems to be a matter of repeated pairing: the more often a controlled attentional response is paired with a particular input, the stronger the association and likelihood that the input will acquire the ability to direct attention automatically.
+
+However, there does seem to be some confusion in how Shiffrin and Schneider use the terms "control" and "attention" [for a longer discussion of the opaque language, see @moors_automaticity_2006]. For instance, they define automaticity as a process that does not need attention (e.g., "activated without the necessity of active control or attention by the subject"; Schneider and Shiffrin, 1977, p. 2), but then also claim that attention is "a controlled process" (Schneider and Shiffrin, 1977, p. 2) that can be directed automatically (i.e., the automatic attention response). Similarly, they refer to an "attention director" as a controlled process (Shiffrin and Schneider, 1977, p. 163). The unfortunate result of this ambiguous language is that "attention" can be directed automatically without the need for "attention".
+
+On the one hand, they seem to be referring to "attention" in the traditional sense, as a selective filtering mechanism. That is, attention is the process that prioritizes the selection of perceptual stimuli. On the other hand, they also seem to be using "attention" to refer to higher-level, executive functions as well. One reasonable interpretation of the automatic attention response then, is that attentional selection and orienting can be triggered automatically without the need for higher-level executive functions.
+
+In many ways, Shiffrin and Schneider's model is consistent with late-stage filtering models [e.g., @deutsch_attention_1963; @norman_toward_1968] in that all characteristics of the stimuli are fully processed and, like the Norman model (1968), early sensory processing has access to memory storage -- prior to selection -- enabling the automatic attention response. Unlike previous models however, where parallel and serial processing stages represent qualitatively different stages of a feed-forward processing system, this model assumes that an automatic attention response could be triggered at any level of stimulus processing. 
+
+<!-- 
+- memory is a permenant connection of nodes
+- "automatic process" = (a) sequence of nodes (nearly) always becomes active in response to particular input configuration, where the inputs may be externally, or internally generated and include the general situational context (b) The sequence is activated automatically without the necessity of active control or attention by the subject.
+- a relatively permenant set ofof associateiv connections in long-term store / requires an appreciable amount of consistent training to develop fully / once learned, an automatic process is difficult to suppress, to modify, or to ignore.
+- "automatic attention response" = when trained to recognize certain inputs as targets, these inputs acquire the ability to initiaate automatic attention responses / will direct attention (controlled processing) automatically to the target regardless of concurrent inputs or memory load, and enable a correct detection to occur
+- automatic-attention responses can be attached not only to the "name" of a stimulus, but also to its category if the category is consistently mapped to responess / we propose that it takes less training to develop automatic detection for single category, already known, thant for the individual stimulus names making up the category
+- "controlled processes" = a temporary sequence of nodes activated under control of, and through attention by, the subject / attention is required only one such sequene at a time bay be controlled without interference
+- tightly capacity-limited, but the cost of capacity limitations is balanced by the benefits deriving from the ease with which such processes may be set up, altered, and applied in novel situations for whihc automatic sequences have not bee learned
+
+- argues that 
+
+
+It is conceptually important to keep in
+mind the possibility that automatic responses
+might be attached to different stages of encoding
+of a single stimulus. In particular,
+when an automatic-attention response develops
+for a category, other attention responses
+may develop at a different rate for
+the stimuli making up that category. Thus,
+if a categorization is available at the start of
+CM training, the attention responses to the
+category might develop sooner than attention
+responses to some or all of the individual
+stimuli in the category.
+
+
+ Automaticity is postattentive. Logan (1988) was most explicit in
+ assuming that automaticity is postattentive. His instance theory rests
+ on three assumptions: (a) obligatory encoding-attention to an object
+ or event is sufficient to encode it into memory; (b) obligatory retrieval-
+ attention to an object or event causes all that was associated with it
+ to be retrieved from memory; and (c) instance representation-each
+ encounter with an object or event is encoded, stored, and retrieved
+ separately. Together, these assumptions imply a learning mechanism:
+ Obligatory encoding builds memory strength for familiar situations,
+ and obligatory retrieval makes past learning available for present
+ problems. The more that was learned, the more that is made available.
+ 
+ 
+Instance-based theories of automaticity (instance theory, Logan, 1988, and its successor, exemplar-based random
+walk theory, or EBRW, Palmeri, 1997) share the same basic
+assumptions that are of most importance here. First, they
+assume that the item-general algorithmic process races
+in parallel with the item-specific memory-based process
+when a stimulus is presented. The process that wins the
+race is the process that generates the response. On the first
+encounter with a specific stimulus, the algorithmic process
+wins the race, because no traces are available in memory
+for retrieval to enter the race. However, after multiple
+exposures to a specific stimulus, traces are available in
+memory to race against the algorithm. The speed with
+which any one trace can be retrieved from memory is assumed to be variable. As the number of traces stored in
+memory increases with practice, the likelihood that a trace
+will be retrieved quickly increases, and thus the likelihood
+that retrieval will win the race also increases.
+
+Second, instance-based theories assume that every time
+an individual attends to a specific stimulus, a unique trace
+for the event is encoded into memory. That is, encoding
+instances into memory is obligatory, an unavoidable
+consequence of attention (Logan, 1988). For example, if a
+specific stimulus has been encountered 20 times, on the
+21st presentation, 20 instances race against the algorithm.
+Although a unique memory trace for a specific stimulus is
+encoded every time the stimulus is encountered, Logan
+(1988) notes that encoding quality may depend on the
+quality and quantity of attention.
+Third, instance-based theories assume that every time
+an individual attends to a specific stimulus, retrieval of
+instances from memory is engaged. That is, initiation of
+retrieval from memory is obligatory, such that attending
+to a specific stimulus is sufficient to initiate retrieval of
+any previous instances stored in memory for the stimulus
+(Logan, 1988). Although initiation of retrieval is assumed
+to be obligatory, Logan (1988) notes that successful retrieval may not always occur. Indeed, retrieval will fail
+if an insufficient number of instances are in memory, if
+instances in memory are weak, and/or if the algorithm
+finishes first.
+-->
+
+## Attention from an associative learning perspective
+
+Attention has long-held a prominent role in theories of human and animal learning [@kruschke_models_2011; @kruschke_toward_2001; @le_pelley_attention_2016; @le_pelley_role_2004; @mackintosh_theory_1975]. Typically, within these learning models, attention is thought to modulate how a cue is used during associative learning as indexed by a cue's \textit{associability}. In the @rescorla_theory_1972 model, for instance, different cues are thought to be differentially attended resulting in varying degrees of associability and learning rates. Though, within this framework there was no theory for how learning rates were adjusted through experience. In Mackintosh's (1975) model, attention to specific cues could vary with with experience. Here, attention, again expressed through a cues associability, is thought to increase for cues that been predictive of some outcome, while decreasing for cues that have been non-predictive. Similarly, @pearce_model_1980 also present a model where attention changes with experience, though here attention increases toward cues when their outcomes are surprising (for a review, see Le Pelley, 2016).
+
+Importantly, this work has traditionally focused on how learning influences attention, \textit{as indexed by a cues associability}; a departure from the cognitive tradition. More recent work has begun exploring whether learning influences other aspects of stimulus processing that are traditionally taken as evidence of attentional changes or if it only influences the associability of cues (e.g., Le Pelley, 2004). For instance, there is evidence that knowledge of the predictiveness of cues can influence attention in a deliberate, top-down manner [@mitchell_attentional_2012]. There is also evidence that learning about a cues predictiveness can influence attention in a more bottom-up, automatic manner. For instance, predictive stimuli were found to be less impaired than non-predictive stimuli in attentional blink paradigms [@glautier_relative_2015; @livesey_attentional_2009] and increasing the predictiveness of stimuli produced attentional biases in spatial cuing paradigms [@haselgrove_disrupted_2016; @le_pelley_learned_2013]. Finally, there is also a growing body of evidence demonstrating that the learned "value" of a stimulus can also influence attention across a variety of tasks [@anderson_value-driven_2011; @della_libera_learning_2009; for a review, see @le_pelley_attention_2016].
+
+Based on this evidence, Le Pelley (2016) has proposed that learning about a cue's predictiveness and value influences more than associability (e.g., Mackintosh, 1975). Instead, it has been proposed that learning has a more general effect on attentional selection and orienting, and as such, supports the notion that "attention can be learned just as other behavioral responses are learned" (Le Pelley, 2016, p. 1124).   
+
+## Associative learning from an attention perspective
+
+The role of associative learning, although certainly referenced in attention models, has only recently taken a prominent role in the attention literature. For instance, there has been increasing interest in how prior experiences bias visual search [e.g., @chen_what_2018; @chun_contextual_1998; @chun_implicit_2003; @hutchinson_memory-guided_2012; @wolfe_five_2017]. Traditionally, this literature has distinguished between goal-driven and stimulus-driven attentional control. More recently some have argued for "selection history" as a third category of attentional control [@awh_top-down_2012; @failing_selection_2018; @wolfe_five_2017]. Attentional control via selection history occurs when prior experiences of attentional selection influence ongoing selection above and beyond goal-driven and stimulus-driven control. 
+
+This view consistent with a large body of evidence demonstrating that the history of attentional selection can and does bias attention in visual search [@chun_contextual_1998; @chun_implicit_2003; @cosman_context-dependent_2013; @cosman_establishment_2014; @cosman_learned_2013; @vecera_control_2014; for a review, see @failing_selection_2018]. Selection history effects are often explained as the result of associative learning: through repeated attentional selection, stimuli become associated with a higher level of attentional priority [@awh_top-down_2012; @failing_selection_2018]. Though, the mechanism by which this occurs has not been made clear. In some cases, it has been suggested that associated priority maps are retrieved and reinstated [@awh_top-down_2012], others have suggested that the representation of the stimulus is somehow altered to include "positive" or "negative" priority [@failing_selection_2018].
+
+Similarly, the cognitive control and selective attention literature's have also begun to invoke associative learning as a means to explain the influence of prior experience [@abrahamse_grounding_2016; @braem_getting_2018; @egner_creatures_2014]. In particular, there is growing evidence that various control processes can become context-dependent (to be reviewed in more detail below). To explain such phenomena, some have suggested that associative learning extends beyond perceptual and/or motor representations to include goal representations. That is, perceptual, motor, and goal representations become bound together in an associative network to enable flexible, context-dependent control. Therefore, a particular stimulus feature (e.g., the color red) could become associated with a particular goal representation (e.g., inhibit) and the presentation of that stimulus would trigger the associated control process. 
+
+## A synthesis of automatic control perspectives
+
+Views on attentional control have changed quite dramatically over time and often these shifts in theoretical focus have occurred in an idiosyncratic, paradigm-specific manner [@allport_attention_1993; @anderson_there_2011; @logan_cumulative_2004]. Quite consistently however, theoretical accounts of attention have included an "automatic" mode of attentional control that does not fit neatly into the oft-cited dichotomies (e.g., top-down/bottom-up, exogenous/endogenous, controlled/automatic). To briefly synthesize these views: there is widespread consensus that attention can be directed in a voluntary, goal-directed manner and in an involuntary, stimulus-driven manner. Almost all theories, however, also include a third kind of control whereby stimuli are prioritized, not on the basis of current goals or the physical salience of the stimulus, but on the basis of prior experience with the stimulus. 
+
+To account for the influence of prior experience, these models assume that an internal memory representation can guide attentional selection. Though they use different terminology, all assume attentional control settings (e.g., thresholds, priorities, pertinence, attentional responses) are preserved in memory, retrieved, and used to guide attention. They also all tend to agree that the retrieval and influence of the internal representation is stimulus-driven and automatic (cued by the mere presence of the stimulus).
+
+Equally consistent across models is a lack of theoretical framework for explaining how attentional control settings are stored and retrieved from memory. That is, all models make vague appeals to some sort of associative learning process whereby pairing an attentional control setting with a stimulus creates an associative link. These explanations, in my view, are unsatisfactory in that they do not make substantive predictions about how and when we should expect previously-experienced stimuli to cue attentional control. Furthermore, there is not even agreement about very general principles of learning.
+
+For instance, some argue that creating an associative link requires extensive practice [@schneider_controlled_1977; @shiffrin_controlled_1977; @treisman_strategies_1969] like the automatization of motor skills [@logan_attention_1992; @logan_toward_1988]. However, these claims were typically made because the data collected at the time suggested that practice was required, not because of any theoretical considerations. Similarly, these models do not explain how learning occurs other than referring to it as an associative process. 
+
+In contrast, late stage selection models like Norman's theory of attention and memory [@deutsch_attention_1963; @norman_memory_1969; @norman_memory_1976; @norman_toward_1968], do not make assumptions about practice. Under these views, automatic attention is the result of an obligatory memory retrieval process that occurs prior to selection. Presumably, whether an internal representation guides attention will be dependent on whether on what memories are retrieved. If a single prior experience is retrieved, it could theoretically guide attention -- though again, Norman's model does not go into detail about how such a memory retrieval process would work. Shiffrin and Schneider (1977) interestingly, rule out Norman's model on the basis that it would predict single trial effects, which at the time, had not been demonstrated. Therefore, even on this basic principle of associative learning, there is no general theoretical (or empirical) agreement.
+
+To sum, almost all theoretical models of attentional control make connections with and rely on a memory system to retrieve internal representations and guide attention. Yet none of the models provide a theoretical framework for how attentional control relates to memory encoding, storage, and retrieval processes. To fully understand how attentional control can be guided by prior experiences, it seems necessary, in my view, to examine attentional control using a memory-based framework.
+
+# Empirical evidence for automatic attentional control
+
+The aim of the current thesis is to evaluate general principles of a memory-based framework of attentional control. Above I argued that there is a need to elaborate on how memory influences attentional control from a theoretical perspective. In the following review, I will cover empirical evidence that prior experiences modulate selective attention demonstrating a need for a memory-based account of attentional control from an empirical perspective. The empirical chapters focus on selective attention in the context of congruency tasks, and therefore, this review will remain within that scope as well. The empirical focus was narrowed to congruency tasks like the flanker [@eriksen_effects_1974] and Stroop [-@stroop_studies_1935] tasks because they have traditionally been the gold standard measures of selective attention [@macleod_half_1991]. Similarly, congruency tasks are conventionally used to make more general inferences about cognitive control and finding support for a memory-based framework within these paradigms would lend evidence for a more general role of memory in modulating control processes. Although, I should note that major theoretical debate has focused on whether these trial-history effects are driven by processes that change attentional control settings [@mayr_conflict_2003; @schmidt_stroop_2008] and/or whether they reflect voluntary or automatic processes [@bugg_conflict-triggered_2014; @bugg_multiple_2008; @bugg_support_2012; @egner_congruency_2007; @egner_creatures_2014]. However, these discussions will be elaborated on within each empirical chapter. This review is not meant to be exhaustive, but instead provide an overview of the kinds of paradigms used to make inferences about attentional control and how prior experiences have been shown to influence selective attention. 
+
+## Congruency tasks
+
+Congruency tasks have long been considered important models for evaluating selective attention and controlled processes more generally [@cohen_context_1992; @cohen_control_1990]. Although they come in a variety of forms -- Eriksen's flanker task [@eriksen_effects_1974], the Stroop task [-@stroop_studies_1935], and the Simon task [@lu_influence_1995; @simon_reactions_1969] -- they all typically involve bi-dimensional stimuli and measure target identification in the presence of potentially conflicting distractors. In the flanker task, for example, [@eriksen_effects_1974] participants identify the central letter flanked by two or three distractors (e.g., 'HHSHH'). Participants are typically faster and more accurate to identify a center letter when flanking letters are congruent (e.g., 'HHHHH') versus incongruent (e.g., 'FFHFF') with the response. Similarly, in the Stroop task [@macleod_half_1991; @stroop_studies_1935], stimuli comprise words printed in colored ink (e.g., "RED" in blue colored ink) and participants are tasked with identifying the color of the word while ignoring the word meaning. In both cases, the difference in performance between the incongruent and congruent conditions is called the congruency effect and modulations to the size of congruency effects are thought to index attentional priorities assigned to target and distractor dimensions. For example, target information is assumed to be prioritized over distractor information when smaller versus larger congruency effects are observed.
+
+## Congruency sequence effects
+
+Sequential modulation of congruency effects were first reported by @gratton_optimizing_1992 using a flanker paradigm. Although they found the typical congruency effect (e.g., worse performance on incongruent trials), they also found an interaction between the current and previous trial congruency. Specifically, congruency effects on trial $n$ were found to be smaller when trial $n-1$ contained an incongruent as compared to a congruent trial. That is, the influence of the distracting stimuli has on target processing is reduced on trials that follow an incongruent as compared to congruent trial demonstrating trial-to-trial shifts in attentional priorities [for reviews, see @duthoo_going_2014; @egner_congruency_2007]. Congruency sequence effects demonstrate a short-term, transient influence of prior experiences on attentional control. Though typically explained as the result of control processing carrying-over from the previous trial [@botvinick_evaluating_2001], congruency sequence effects have been found to be dependent on the feature overlap between trials suggesting a memory component [@hommel_event_1998; @hommel_feature-integration_2004; @spape_he_2008; @spape_sequential_2014].
+
+
+## List-wide proportion congruence effects
+
+In the list-wide proportion congruent (LWPC) design, the proportion of congruent trials is manipulated across experimental blocks [@kane_working-memory_2003; @lindsay_stroop_1994; @logan_attention_1980; @logan_strategies_1984; @logan_when_1979; @lowe_selective_1982]. For instance, in a mostly congruent block of trials there are a higher percentage of congruent to incongruent trials (e.g., 75% congruent), while in a mostly incongruent block there are higher percentage of incongruent to congruent trials (e.g., 25%). Typically, a larger congruency effect is found for blocks that contain mostly congruent trials as compared to mostly incongruent blocks. Here, the frequency of experienced conflict is thought to influence the attentional priorities assigned each dimension. In the mostly incongruent block, the frequent conflict biases attention away from the irrelevant (conflicting) stimulus dimension, whereas in the mostly congruent -- where the distracting dimension often predicts the correct response -- attention is biased towards to irrelevant dimension. This result was originally interpreted as the consequence of strategic control [@logan_attention_1980; @logan_when_1979]: participants in the high proportion block become aware of the proportion manipulation and prepare to attend to the distracting information, while those in the low proportion block prepare to ignore the distracting information. However, more recent work suggests this may not be the case   (e.g., Blais & Bunge, 2010; Bugg, Jacoby, & Toth, 2008). 
+
+The list-wide proportion congruent effect demonstrates a more sustained influence of prior experience on attentional control and suggests that the temporal or experimental context can become associated with an attentional control setting. This interpretation is supported by work by Bugg and colleagues showing list-wide effects transfer to frequency unbiased items  [@bugg_list-wide_2011; @bugg_multiple_2008]. For example, in one study they manipulated the list-wide proportion of congruent trials via a subset of items randomly intermixed with a stable set of frequency unbiased items. The congruency effect was found to be significantly smaller for the unbiased subset when embedded in a mostly incongruent list as compared to when embedded in a mostly congruent list. This result is consistent with the interpretation that the experimental context became associated with a general attentional control setting that generalized to other items presented within that context.
+
+## Item-specific proportion congruence effects
+
+In the item-specific proportion congruency (ISPC) design, stimuli are separated into two non-overlapping item sets and the proportion of congruent trials is manipulated independently for each set [@bugg_converging_2013; @bugg_why_2011; @jacoby_item-specific_2003]. In a Stroop variant, item-specific designs assign one set of items (e.g., Red and Blue combinations) to a high proportion congruent condition, and another set (e.g., Green and Yellow combinations) to a low proportion congruent condition. Both item types are intermixed randomly, so subjects cannot accurately predict whether the next trial will be congruent or incongruent. In these designs, congruency effects are found to be larger for high versus low proportion congruent items. Of particular importance for these designs, participants are unable to predict the congruency of upcoming trials (unlike the LWPC design) and changes in the congruency effect must reflect, stimulus-driven automatic shifts in attentional control. The item-specific proportion congruent effect therefore, demonstrate that specific stimuli can become associated with an attentional control setting, which can be rapidly adjusted on a trial-to-trial basis.
+
+## Context-specific proportion congruence effects
+
+Context-specific proportion congruent (CSPC) designs manipulate proportion congruent between two different contexts in which items can appear, again in a randomized, intermixed fashion. For example, Crump, Gong, and Milliken [@crump_context-specific_2006; see also, @corballis_independent_2003] presented Stroop stimuli in one of two randomly chosen locations and manipulated the frequency of conflict associated with each location. One location was associated with a high frequency of conflict (25% congruent trials) and the other with a low frequency of conflict (75% congruent trials). Overall, the proportion of congruent trials was 50% and randomized such that the upcoming location could not be predicted. Even so, congruency effects were shown to be smaller for trials where the stimulus appeared in the high conflict location as compared to the low conflict location. This effect, known now as the context-specific proportion congruent effect (CSPC), has now been replicated using location [@brosowsky_context-specific_2016; @corballis_independent_2003; @crump_context-specific_2006; @crump_learning_2016; @crump_reproducing_2017; @hubner_location-specific_2016; @weidler_transfer_2016], shape [@crump_context-specific_2008], color [@vietze_context_2009], social categories [@canadas_social_2013], and incidental semantic cues [@blais_trial-by-trial_2015]. 
+
+Critical evidence that CSPC effects reflect stimulus-driven, automatic control processes, rather than other non-control learning processes [e.g., @schmidt_stroop_2008], comes from work showing that CSPC effects can transfer to frequency unbiased items [Crump Brosowsky 2017; @crump_flexibility_2009; @weidler_attentional_2018; @weidler_transfer_2016; though, see @hutcheon_limits_2017]. Crump and Milliken (2009), for example, divided Stroop items into two non-overlapping item sets (e.g., Red and Blue combinations; Green and Yellow combinations). One set was defined as the frequency biased set, and presented with 75% congruency in one location, and 25% congruency in the other. The second set however, was presented with 50% congruency in both locations. Nevertheless, they found smaller congruency effects for unbiased items presented in the high conflict location as compared to the low conflict location.	The CSPC effects demonstrate that task-irrelevant contextual features can become associated with attentional control settings and generalizes to all items appearing within that context.
+
+## Other related cognitive control phenomena
+
+Context-specific effects are not limited to congruency tasks. Other, equivalent effects have been demonstrated in other tasks that probe different components of cognitive control. For instance, negative priming refers generally to the finding that reaction times to identify a previously ignored target are slowed compared to a target that was not previously ignored [@tipper_negative_1985; for recent reviews, see @dangelo_negative_2016; @frings_negative_2015]. However, negative priming is sensitive to the match between probe and prime tasks, and that negative priming persists over the long-term, provided evidence suggesting a role for memory-based retrieval processes in negative priming [@neill_episodic_1997; @neill_persistence_1992]. 
+
+Similarly, in task-switching paradigms performance is typically worse if the task set switches between trials rather than repeating [@monsell_task_2003]. This, 'switching cost', is thought to reflect the cost in overcoming interference from the previously used task set and re-configuring to the new task set [@rogers_costs_1995]. More recent work however, has demonstrated CSPC-like effects: smaller switch costs when items appeared in a context associated with a high switch-likelihood compared to items in a context associated with a low switch-likelihood [@chiu_cueing_2017; @crump_contextual_2010; @leboe_probe-specific_2008]. Similar CSPC-like effects have also been observed in response inhibition tasks [@verbruggen_long-term_2008], dual-task paradigms [@fischer_context-sensitive_2014; @surrey_context-specific_2017], Simon tasks [@hubner_location-specific_2016], and attention capture [@crump_context-dependent_2018]. 
+
+Moreover, @waszak_task-switching_2003 found long-term, item-specific effects in task-switching. Here, they observed switching costs for specific items re-presented after more than 100 intervening trials. Other long-term item-specific effects have also been observed in inhibition of return [@tipper_long-term_2003], priming-of-pop out in visual search [@thomson_contextual_2013; @thomson_perceptual_2012], and response inhibition in stop-signal tasks [@verbruggen_long-term_2008]. 
+
+## A summary of automatic attentional control phenomena
+
+To summarize, there is widespread evidence that prior experiences can modulate selective attention as indexed by congruency effects. The influence of previous experiences on performance range in timescales from short, transient effects, to more long-term and sustained effects. Similarly, these effects range in their specificity: in some cases they are highly specific, requiring the re-presentation of the specific item. In other cases, these effects generalize across items that share contextual features like stimulus location. 
+
+This evidence supports the notion that attentional control settings can become associated with external cues, triggering automatic shifts in attentional control when re-presented. Moreover, this evidence demonstrates a need for a memory-based framework of attentional control. Although there is similar findings in other cognitive control paradigms, it remains unclear whether this collection of evidence points to a general role for memory retrieval of control operations linked with specific prior processing episodes to update and adjust control operations in the present moment.
+
+# An instance theory of automatic attentional control
+
+I have argued that there is a theoretical and empirical need to examine attentional control from a memory perspective. Here, I outline an instance-based memory theory of automatic attentional control which builds on Logan's theory of automaticity [-@logan_attention_1992; -@logan_automaticity_1988; -@logan_toward_1988] and Hintzman's exemplar model of memory [-@hintzman_judgments_1988; -@hintzman_minerva_1984; -@hintzman_schema_1986]. The theory makes four main assumptions: (1) \textit{obligatory memory encoding} -- Encoding is an obligatory consequence of attending to an object or event; (2)  \textit{"instance" or "exemplar" memory representation} -- A unique trace for an event is encoded into memory every time an individual attends to an object or event. Multiple exposures to the same stimulus will cause the creation of multiple unique memory traces, one for each exposure; (3) \textit{obligatory memory retrieval} -- Every time a stimulus is attended, a memory-retrieval process is initiated; and (4) \textit{the preservation of cognitive processing details} [@kolers_procedures_1984] -- How we attended during a given experience is encoded in memory, bound together, with other perceptual details of the experience. 
+
+The instance theory of automatic attentional control adopts particular theoretical views of memory and automaticity worth examining in more detail. I review these theoretical foundations, in brief below, before moving on to the consequences of adopting an instance theory and the potential explanatory power of an instance theory in the cognitive control domain.
+
+## Theoretical foundations of the instance theory
+
+### A processing view of memory
+
+First, the instance theory adopts a processing view of memory [e.g., @baddeley_fractionation_1984; @craik_elaboration_1979; @hintzman_minerva_1984; @hintzman_schema_1986; @mckoon_critical_1986; @roediger_does_1984; @whittlesea_after_1994]. 
+
+There has been a long tradition in psychology to categorize different phenomenological experiences of memory and delineate between the types of underlying memory systems. Under the multiple memory systems view, memory is not a single, unitary system, but instead comprises multiple, interacting types of memory storage systems [e.g., @eichenbaum_conditioning_2001; @gabrieli_cognitive_1998; @poldrack_competition_2003; @schacter_memory_2000; @schacter_what_1994; @squire_structure_1993; @tulving_how_1985]. Categories are determined by observed differences in memory performance. For instance, categories have been delineated by differences in how information is forgotten, differences in the types of information retrieved, and awareness of retrieval [e.g., @squire_memory_2004; @tulving_how_1985]. Memory performance in different tasks is dissociable then, because they depend on different underlying memory structures.
+
+According to the multiple memory systems view, long-term memory is broadly divided into two systems, declarative (explicit) and non-declarative (implicit), distinguished by whether an individual has awareness of memory retrieval. Whereas retrieval from declarative memory occurs with awareness, retrieval from non-declarative memory occurs without awareness [@cohen_preserved_1980; @squire_memory_1988]. These two categories are further sub-divided into sub-systems of memory: Declarative memory is thought to reflect the conscious influence of prior experiences and comprises episodic (knowledge of prior specific events) and semantic (general factual knowledge) forms of memory. Non-declarative is thought to reflect the unconscious, automatic influence of prior experiences on behavior and includes priming, conditioning, statistical learning, and habituation; though, what should or should not be included as 'type' of non-declarative memory are actively debated. The multiple memory systems view has inspired research programs investigating how different "types" of memory influence attention and some have attempted to categorize the memorial influences on attention in a similar manner [@chen_what_2018; @hutchinson_memory-guided_2012].
+
+The processing view of memory, in contrast, proposes a single, unified memory system serving multiple purposes and operating under a common set of principles [e.g., @benjamin_representational_2010; @curtis_computational_2018; @kinder_amnesia_2001; @kinder_neuropsychological_2003; @shanks_characteristics_1994; @surprenant_principles_2013; see also, @bussey_memory_2007; @gaffan_against_2002 for the same argument applied to nonhuman animals]. By this view, dissociations arise because different processes are interacting with the memory system, not because of different underlying memory structures. Instance theories of memory are predicated on the idea that individual experiences (i.e., instances) represent the fundamental units of knowledge and learning, by this account, is the accumulation and deployment of instances from memory [@brooks_decentralized_1987; @brooks_nonanalytic_1978; @hintzman_judgments_1988; @hintzman_minerva_1984; @hintzman_schema_1986; @logan_toward_1988; @medin_context_1978]. Instance theories of memory are certainly more parsimonious than multiple memory systems theories. However, much of the evidence for instance-based representations come from computational work showing dissociations in memory and learning -- commonly taken as evidence for multiple systems -- can be produced with a single, instance-based memory system [e.g., memory phenomena: @arndt_true_1998; @berry_single-system_2014; @clark_familiarity-based_1997; @curtis_computational_2018; @gillund_retrieval_1984; @hintzman_judgments_1988; @jacoby_nonanalytic_1984; @jamieson_computational_2016; @jamieson_instance_2018; @raaijmakers_search_1981; classification and categorization phenomena: @hintzman_schema_1986; @jacoby_nonanalytic_1984; @medin_context_1978; @nosofsky_attention_1986; @nosofsky_attention_1987; @nosofsky_exemplar-based_1988; @nosofsky_tests_1991; implicit and associative learning phenomena: @higham_beyond_2000; @jamieson_applying_2009; @jamieson_applying_2010; @jamieson_instance_2012; @jamieson_memory-based_2010].
+
+<!--
+For example, Hintzman (1984; 1986; see also, Humphreys, Bain and Pike, 1989; Jamieson, 2018) was able to model episodic-like and semantic-like memory retrieval using a single, instance-based memory system. In this model, when memory is probed by a cue all the stored traces that are similar to the probe are retrieved and aggregated into an "echo". If memory was probed with a specific cue very similar to only a small number of traces, then retrieval will produce an echo that contains many specific details of those traces, much like a context-rich episodic memory. However, if memory is probed with a less specific cue, with low similarity to many traces in memory, then the retrieved echo will not contain many specific details of any one trace. Instead, the echo will reflect more generalized, abstracted, features common across traces. Therefore, Hintzman was able to show that contextual details can be preserved, much like episodic memory, and how contextual details can be lost, much like semantic memory.    
+-->
+
+### Automaticity as single-step memory retrieval
+
+Second, the instance theory adopts a single-step memory retrieval view of automaticity [@jacoby_interpreting_1978; @logan_toward_1988].
+
+One traditional view defines automaticity relative to the amount of required attentional resources: a process was considered automatic to the extent it can operate independently of attentional resources. Automaticity is effortless because effort is proportional to the amount of resources required; fast because is not limited by the availability of resources; and obligatory because 'control' is defined as the allocation of resources which is not required [@hasher_automatic_1979; @laberge_toward_1974; @logan_use_1979; @posner_attention_1975; @posner_facilitation_1975; @schneider_controlled_1977; @shiffrin_controlled_1977]. This view has been criticized heavily on multiple fronts -- and largely beyond the scope of this discussion [@allport_visual_1989; @kahneman_tests_1983; @navon_economy_1979; @wickens_processing_1984; for reviews, see @logan_attention_1992; @moors_automaticity_2006]. However, resource theories do not provide a mechanism for how automaticity is learned [@logan_automaticity_1988; @logan_toward_1988], and more seriously, cannot account for how controlled processes like attentional selection might become automatic since automaticity is by definition the absence of control and/or attention.
+
+Instead, the view adopted here defines automatization as a shift from an algorithmic process to a single-step memory retrieval process [e.g., @jacoby_interpreting_1978; @logan_toward_1988]. Nonautomatic processes rely on a slow algorithmic process to produce an output. Once produced however, this output can be stored in memory. Future processing can then bypass the algorithmic computations and rely entirely on memory retrieval. According to Logan's model (1988; 1992), a race determines whether an algorithmic or memory-retrieval process is used. Memory-retrieval time is dependent on the number of exact stimulus-matches in memory and the algorithmic process races in parallel with the memory-retrieval process; whichever process wins determines the response. 
+
+For example, when a novel stimulus is first encountered, the algorithmic process wins because there are no memories to retrieve. After a single exposure, memory-retrieval may still be too inefficient to outrace the algorithm. However, after multiple exposures, the memory-retrieval process should bypass the algorithm and the response would become automatic. Thus, the development of automaticity requires practice. Logan's model however, uses an instance-based memory framework and could easily accommodate other retrieval mechanisms like physical and temporal similarity [for one such extension, see @palmeri_exemplar_1997].
+
+<!--
+However, Logan's model is an instance-based retrieval model and compatible with other instance-based retrieval mechanisms (e.g., Hintzman). Therefore, it is possible the speed and efficiency is not just determined by the number of traces, but also the similarity between the cue and stored traces (e.g., ). Additionally, according to Logan (1988) retrieval requires a direct match with the cue which precludes generalization and including other retrieval mechanisms, like cue similarity, would produce generalization (e.g., ). 
+-->
+
+### Procedures of the mind: Storage, retrieval, and reinstatement
+
+Finally, the instance theory assumes the preservation of cognitive processing [e.g., @kolers_procedures_1984; @melton_associative_1972]. 
+
+This assumption is a natural extension of instance-based models of memory and theories of automaticity in that it treats attention like any other behavioral response: Attention procedures can be stored and retrieved from memory and can be automatically reinstated in the same way that other motor responses are automatically reinstated. As reviewed above, the storage and retrieval of attentional control processing is a deeply embedded assumption prevalent across many theoretical treatments of attention [@deutsch_attention_1963; @norman_toward_1968; @schneider_controlled_1977; @shiffrin_controlled_1977; @treisman_strategies_1969]. 
+
+Additionally, the general idea that memory could represent details of prior processing has been proposed more generally elsewhere. Kolers and Roediger (1984) for example, argue that learning and memory should be viewed in terms of the cognitive procedures applied during an experience. They viewed the cognitive procedures as inseparable from the contents of our memory representations. Similarly, Estes (1972) proposed that stimuli become associated with 'control elements', allowing their cued reinstatement.
+
+Returning to selective attention processes, there are two possible variants of this assumption: in one variant, an attentional control setting -- essentially a set of instructions (e.g., prioritize the color and inhibit the word) -- are preserved and, upon retrieval, sent to a specialized attention system to implement. This view is very much in spirit with filter models of attention [e.g., @deutsch_attention_1963; @norman_toward_1968; @treisman_contextual_1960; @treisman_selective_1964; @treisman_strategies_1969]. In a second variant attention is conceptualized as an action and stored as an action schema [e.g., @norman_attention_1986]. In this case, the action schema (e.g., move attention towards the color and away from the word), upon retrieval, is sent to a more generalized control system to implement. This view is more consistent with Shiffrin and Schneider's view of attention (1977) and modern views of cognitive control [e.g., @botvinick_evaluating_2001; @de_pisapia_model_2006]. The instance theory makes no claims about the control systems required to implement automatic attention, only that processing details are preserved and reinstated.
+
+## The (potential) explanatory power of an instance theory
+
+The instance theory offloads the difficult task of determining when and how to adjust attention to a memory-retrieval system. The  benefit of adopting an instance-based theory is in its flexibility in determining which prior experiences influence on-going processing. For instance, it has the ability to produce highly specific, context-rich retrieval and more generalized, abstract retrieval. This was demonstrated by Hintzman (1984; 1986) who was able to model episodic-like and semantic-like memory retrieval using an instance-based memory system. In this model, when memory is probed all the stored traces that are similar to the probe are retrieved and aggregated into an "echo". If memory was probed with a specific cue very similar to only a small number of traces, then retrieval produced an echo that contained many specific details of those traces, much like a context-rich episodic memory. However, if memory was probed with a less specific cue, with low similarity to many traces in memory, then the retrieved echo did not contain many specific details of any one trace. Instead, the echo contained more generalized, abstracted, features common across traces. Therefore, Hintzman was able to show that contextual details can be preserved, much like episodic memory, and how contextual details can be lost, much like semantic memory.  
+
+Prior models of cognitive control have struggled to handle the varying levels of specificity observed across contextual cuing phenomena. One strategy has been to propose multiple control processes operating on different timescales [@botvinick_evaluating_2001; @braver_variable_2012; @de_pisapia_model_2006]; although these too are unable to explain all the observed phenomena [@crump_flexibility_2009; @egner_creatures_2014; @verguts_adaptation_2009; @verguts_hebbian_2008]. The instance theory has the potential explain the full range of phenomena with one control process by offloading the selection of the attentional control setting to a memory retrieval system. By assuming memory retrieval is similarity-based, for instance, the instance theory would easily predict item-specific and context-specific proportion congruent effects. In the item-specific proportion design, items are separated into non-overlapping sets. Since item sets do not share any features, cuing memory on any given trial would be able to retrieve items from those sets. In contrast, the context-specific proportion congruent phenomena shows generalization across items that share contextual features. The instance theory would also predict generalization as items would be retrieved on the basis of the shared feature. By assuming that recent memories are retrieved more easily than distant memories, the instance theory could also predict congruency sequence effects (e.g., Egner 2014). 
+
+<!-- 
+Note how this differs from traditional views of associative learning:
+
+Typically, associative learning is modeled as a gradual
+accrual of excitatory and inhibitory connections between
+stimulus units. Associative strength is treated as summative;
+so the strength of an association between stimuli on trial t
+stands for the entire history of learning. This scheme for
+understanding learning is well described in the Rescorla–
+Wagner model (Rescorla & Wagner, 1972) and the many
+theories that follow from it.
+
+Whereas summative theories provide insight into learning,
+they make an unreasonable assumption. Namely, they deny that
+the learner remembers the events of separate learning trials—a
+problem that Miller, Barnet, and Grahame (1995) call the
+assumption of path independence. The problem is important.
+First, it distinguishes learning from memory. Second, it denies
+a growing body of evidence that animals other than humans
+remember the events of learning trials (e.g., Fagot & Cook,
+2006; Vaughan & Greene, 1984; Voss, 2009).
+
+In contrast to the classical theories of learning, instance
+theories of human memory identify the individual experience (i.e., the instance) as the primitive unit of knowledge
+and treat learning as the accumulation and deployment of
+instances from memory. Brooks (1978, 1987) was among
+the first to champion the view. Medin and Schaffer (1978)
+were among the first to formalize it (see also Reed, 1972).
+Hintzman's (1986, 1988) Minerva 2 model and Nosofsky's
+(1986) generalized context model are classic formalizations
+of the view. Kruschke's (1992, 1996, 2001) and Logan's
+(1988, 2002) models are modern expressions of the
+approach. Blough (1998) provided an instance-based
+formulation of associative learning based in signal detection
+theory.
+
+
+ why an instance-based representation?
+
+Crump, 2016
+- consistent with global memory theories (Eich, 1982, Hintzman, 1984, Murdock, 1993)
+- the idea that memory could represent the details of prior processing: Kolers and Roediger (1984) procedures of mind; Estes' (1972) control units
+
+Logan, 2002
+- The idea of separate traces for different events accounts naturally for many episodic memory phenomena (Gillund & Shiffrin, 1984, Hintzman, 1988; Jacoby & Brooks, 1984; Raaijimakers & Shiffrin, 1981) and accounts for many phenomena in classification and categorization (Hintzman, 1986; Jacoby & Brooks, 1984; Medin & Schaffer, 1978; Nosofsky, 1988).
+
+Potential to account for the range of phenomena from single-trial effects to generalization of control. 
+
+Jamieson, Crump, and Hannah (2011)
+- Learning, under this view, is the accumulation and deployment of instances from memory. 
+- First championed by Brooks (1978, 1987). First formalized by Medin and Schaffer (1978; see also Reed, 1972), Hintzman (1986; 1988), and Nosofsky (1986). Kruschke's (1992, 1996, and 2001) and Logan's (2002) are modern expressions of this approach. Blough (1998) provided an instance based formulation of associative learnin based in signal detection theory.
+
+More recently, this view has had success in demonstrating instance-based memory models could produce associative learning phenomena (Jamieson, Hannah & Crump, 2010; Jamieson, Crump, and Hannah, 2011) and semantic memory phenomena (Jamieson, Avery, Johns, and Jones, 2018).
+
+more examples at the end of Jamieson et al 2018
+
+
+Triggering filtering settings or a general need for control? ala conflict-monitoring with a memory
+
+A paradox: Attend to a stimulus to retrieve a memory that directs attention... 
+- preattentive
+- multiple stages of attention (e.g., Treisman / Kahneman)
+= Or.. attention as continuous, time-dependent process (like an action)
+
+The relationship between attention and automaticity
+
+ Automaticity is postattentive. Logan (1988) was most explicit in
+ assuming that automaticity is postattentive. His instance theory rests
+ on three assumptions: (a) obligatory encoding-attention to an object
+ or event is sufficient to encode it into memory; (b) obligatory retrieval-
+ attention to an object or event causes all that was associated with it
+ to be retrieved from memory; and (c) instance representation-each
+ encounter with an object or event is encoded, stored, and retrieved
+ separately. Together, these assumptions imply a learning mechanism:
+ Obligatory encoding builds memory strength for familiar situations,
+ and obligatory retrieval makes past learning available for present
+ problems. The more that was learned, the more that is made available.
+ 
+ 
+Instance-based theories of automaticity (instance theory, Logan, 1988, and its successor, exemplar-based random
+walk theory, or EBRW, Palmeri, 1997) share the same basic
+assumptions that are of most importance here. 
+
+First, they assume that the item-general algorithmic process races
+in parallel with the item-specific memory-based process
+when a stimulus is presented. The process that wins the
+race is the process that generates the response. On the first
+encounter with a specific stimulus, the algorithmic process
+wins the race, because no traces are available in memory
+for retrieval to enter the race. However, after multiple
+exposures to a specific stimulus, traces are available in
+memory to race against the algorithm. The speed with
+which any one trace can be retrieved from memory is assumed to be variable. As the number of traces stored in
+memory increases with practice, the likelihood that a trace
+will be retrieved quickly increases, and thus the likelihood
+that retrieval will win the race also increases.
+
+Second, instance-based theories assume that every time
+an individual attends to a specific stimulus, a unique trace
+for the event is encoded into memory. That is, encoding
+instances into memory is obligatory, an unavoidable
+consequence of attention (Logan, 1988). For example, if a
+specific stimulus has been encountered 20 times, on the
+21st presentation, 20 instances race against the algorithm.
+Although a unique memory trace for a specific stimulus is
+encoded every time the stimulus is encountered, Logan
+(1988) notes that encoding quality may depend on the
+quality and quantity of attention.
+
+Third, instance-based theories assume that every time
+an individual attends to a specific stimulus, retrieval of
+instances from memory is engaged. That is, initiation of
+retrieval from memory is obligatory, such that attending
+to a specific stimulus is sufficient to initiate retrieval of
+any previous instances stored in memory for the stimulus
+(Logan, 1988). Although initiation of retrieval is assumed
+to be obligatory, Logan (1988) notes that successful retrieval may not always occur. Indeed, retrieval will fail
+if an insufficient number of instances are in memory, if
+instances in memory are weak, and/or if the algorithm
+finishes first.
+
+-->
+# Overview of empirical chapters
+
+The aim of the current thesis is to test general principles of an instance theory of automatic attentional control using a converging operations approach. The instance theory makes four main assumptions: (1) \textit{obligatory memory encoding}; (2)  \textit{"instance" or "exemplar" memory representation}; (3) \textit{obligatory memory retrieval}; and (4) \textit{the preservation of cognitive processing details}. In Chapter 2, I will examine the obligatory nature of memory encoding by investigating context-specific proportion congruent effects in a non-conflict selective attention task. In Chapter 3, I will examine the assumption of long-term instance-based representation by investigating long-term single-trial effects in a context-cuing flanker paradigm. Finally, in Chapter 4 I will examine how memory-retrieval can influence context-specific attentional control in a context-specific proportion congruent task. 
+
+
+
+
+
+
